@@ -1,0 +1,2 @@
+Rahim = 10
+Karim = 20.5
